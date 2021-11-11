@@ -1,0 +1,8 @@
+beli1 = str (input ("Masukkan daftar belanja 1: "))
+beli2 = str (input ("Masukkan daftar belanja 2 : "))
+tambah1 = str (input ("Tambahkan data ke daftar belanja 1: "))
+tambah2 = str (input ("Tambahkan data ke daftar belanja 2: "))
+daftar1 = (beli1+tambah1)
+daftar2 = (beli2+tambah2)
+print ("Daftar belanja 1 adalah", beli1,",", tambah1)
+print ("Daftar belanja 2 adalah", beli2,",", tambah2)
